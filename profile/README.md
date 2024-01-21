@@ -12,4 +12,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![Kaopu profile backgound](../assets/kaopu-profile-background.jpeg)
+![kaopu-profile-background](https://github.com/weikaopu/.github/assets/4018709/9b2b3371-86ce-4f39-ba58-844322f7104d)
